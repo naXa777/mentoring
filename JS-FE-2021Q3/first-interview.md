@@ -1,7 +1,7 @@
 # Первое собеседование со студентами (Technical screening, 30 ноября - 14 декабря)
 
 ### Информация о собеседовании доступная для студентов. Прочитать в первую очередь! 
-https://docs.rs.school/#/technical-screening
+https://github.com/rolling-scopes-school/tasks/tree/master/stage2/modules/technical-screening
 
 ## Перед собеседованием
 #### Студенты сами должны связаться с вами, у них есть контакты, которые вы оставили в RS App.
