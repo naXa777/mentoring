@@ -19,6 +19,7 @@
 <details>
   <summary>2. Что такое RS APP?</summary>
 
+### RS APP
 - RS APP или Rolling Scopes School Application — это open-source платформа, используемая в процессе обучения в RS School и разрабатываемая силами активистов сообщества.
     - http://app.rs.school/
     - Репозиторий - https://github.com/rolling-scopes/rsschool-app
@@ -48,6 +49,7 @@
 <details>
   <summary>4. Учебная программа и расписание</summary>
 
+### Учебная программа и расписание
 - Курс состоит из [4х этапов: подготовительного + три основных](https://github.com/rolling-scopes-school/tasks/blob/master/roadmap.md). 
   - Программа обучения - [stage#1](https://github.com/rolling-scopes-school/tasks/tree/master/stage1) (5 сентября - 22 ноября)
   - Программа обучения - [stage#2](https://github.com/rolling-scopes-school/tasks/tree/master/stage2) (23 ноября - 1 марта 2022) <- **Вы менторите на этом этапе**
@@ -94,7 +96,8 @@
 
 <details>
   <summary>6. Менторская футболка</summary>
- 
+
+### Менторская футболка
 По окончанию менторинга вы получаете футболку, если в течение курса вы:
 - Проверили минимум 6 PR c выставлением оценки в Score
 - Провели минимум 6 собеседований
@@ -103,6 +106,7 @@
 <details>
   <summary>7. Общение. </summary>
 
+### Общение
 - [Чаты в которых общаются студенты. Discord и Telegram](https://docs.rs.school/#/rs-school-chats) 
 - [Telegram для менторов](https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ) 
 - Еженедельный митинг для менторов. Он проходит каждый вторник в 16:00 GMT+3 или 13:00 UTC. Продолжительность 30 минут. Участие по желанию. Митинг записывается, конспект митинга сбрасывается в telegram. [Ссылка для подключения](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDE0NDllOGEtZjVjZi00ZDc3LWJlNWMtNzIwZDRiODZiMzc3%40thread.v2/0?context=%7b%22Tid%22%3a%22b41b72d0-4e9f-4c26-8a69-f949f367c91d%22%2c%22Oid%22%3a%22bfb3a45e-ab50-4cee-a085-b5c4a9411d92%22%7d)
@@ -116,7 +120,8 @@
 
 <details>
   <summary>8. Доступ к приватным студенческим репозиториям. </summary>
-
+	
+### Доступ к приватным студенческим репозиториям.
 1. Все студенты, получили приватный репозиторий внутри https://github.com/rolling-scopes-school
 2. Все менторы были добавлены в отдельный тим - https://github.com/orgs/rolling-scopes-school/teams/mentors-js-fe-2021Q3/members 
 Свой инвайт можно проверить тут - https://github.com/orgs/rolling-scopes-school/invitation
