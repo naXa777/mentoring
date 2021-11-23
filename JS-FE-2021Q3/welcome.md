@@ -1,6 +1,6 @@
 ### Запись
-// Ссылка будет тут
-
+- https://youtu.be/2zfJ4xzVg18
+- [слайды](https://docs.google.com/presentation/d/10lfeGXlC-ONGkHPmBnsexf8gnN9FRMrpu4HtnxG3UPc/edit?usp=sharing)
 ## Спасибо за регистрацию в менторы RS School!
 
 ## Общая информация
