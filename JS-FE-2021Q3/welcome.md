@@ -110,6 +110,7 @@
 - [Чаты в которых общаются студенты. Discord и Telegram](https://docs.rs.school/#/rs-school-chats) 
 - [Telegram для менторов](https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ) 
 - Еженедельный митинг для менторов. Он проходит каждый вторник в 16:00 GMT+3 или 13:00 UTC. Продолжительность 30 минут. Участие по желанию. Митинг записывается, конспект митинга сбрасывается в telegram. [Ссылка для подключения](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDE0NDllOGEtZjVjZi00ZDc3LWJlNWMtNzIwZDRiODZiMzc3%40thread.v2/0?context=%7b%22Tid%22%3a%22b41b72d0-4e9f-4c26-8a69-f949f367c91d%22%2c%22Oid%22%3a%22bfb3a45e-ab50-4cee-a085-b5c4a9411d92%22%7d)
+- Закрытая группа активистов и менторов в Discord. Тут обсуждаем учебный процесс, платформу и все что связано с обучением в RS School. Как получить доступ к группе указано ниже.
 
 #### Получение роли ментора в Discord
 1. Открыть - https://app.rs.school/profile
