@@ -16,7 +16,8 @@ https://github.com/rolling-scopes-school/tasks/tree/master/stage2/modules/techni
 2. Найти студента в Discord по гитхаб аккаунту
 
 #### Вопрос: Какие инструменты для онлайн собеседования могут быть полезны?
-- codepen.io
+- https://codepen.io/
+- https://codeshare.io/
 - https://www.skype.com/en/interviews/
 - https://codepad.remoteinterview.io
 - https://repl.it/
