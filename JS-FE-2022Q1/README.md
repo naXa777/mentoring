@@ -6,7 +6,7 @@
 - Прочитать о процессе регистрации и получении студентов можно тут - https://docs.rs.school/#/mentoring-kick-off
 
 ### Учебный план 
-- https://github.com/rolling-scopes-school/tasks/tree/master/tasks
+- https://github.com/rolling-scopes-school/tasks/tree/master/stage2
 
 ### Документация
 - Роль ментора https://docs.rs.school/#/rs-school-mentor
