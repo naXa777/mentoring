@@ -5,6 +5,9 @@
 - Подтвердить вашу регистрацию на курс, если еще не подтверждали - https://app.rs.school/course/mentor/confirm?course=js-fe-2022Q1 Форму можно сабмитать несколько раз, сохраняется последний вариант.
 - Прочитать о процессе регистрации и получении студентов можно тут - https://docs.rs.school/#/mentoring-kick-off
 
+### Учебный план 
+- https://github.com/rolling-scopes-school/tasks/tree/master/tasks
+
 ### Документация
 - Роль ментора https://docs.rs.school/#/rs-school-mentor
 - Процесс регистрации на курсе и получения студентов https://docs.rs.school/#/mentoring-kick-off
