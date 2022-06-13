@@ -1,7 +1,7 @@
 ## Спасибо за регистрацию в менторы RS School!
 
 ### Что необходимо сделать прямо сейчас
-- [Присоединиться к telegram для менторов](https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ) 
+- [Присоединиться к telegram для менторов](https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ). Если вы хотите читать только анонсы без обсуждений, существует отдельный канал https://t.me/+Rqy2gj5Iwdpp62F0 
 - Подтвердить вашу регистрацию на курс, если еще не подтверждали - https://app.rs.school/course/mentor/confirm?course=js-fe-2022Q1 Форму можно сабмитать несколько раз, сохраняется последний вариант.
 - Прочитать о процессе регистрации и получении студентов можно тут - https://docs.rs.school/#/mentoring-kick-off
 
