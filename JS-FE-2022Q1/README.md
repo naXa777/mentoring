@@ -7,6 +7,10 @@
 - Подтвердить вашу регистрацию на курс, если еще не подтверждали - https://app.rs.school/course/mentor/confirm?course=js-fe-2022Q1 Форму можно сабмитать несколько раз, сохраняется последний вариант.
 - Прочитать о процессе регистрации и получении студентов можно тут - https://docs.rs.school/#/mentoring-kick-off
 
+### Eженедельный митинг для менторов RS School
+Митинги для менторов будут проходить по понедельникам в 12:00 UTC+2. Участие является опциональным, митинг будет записываться, конспект сбрасываться в телеграм. 
+[Ссылка для подключения](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGUwNWI5ZDctM2EwNi00MTI1LWE2OGQtNTc5YjRkY2VjNTYz%40thread.v2/0?context=%7b%22Tid%22%3a%22b41b72d0-4e9f-4c26-8a69-f949f367c91d%22%2c%22Oid%22%3a%22bfb3a45e-ab50-4cee-a085-b5c4a9411d92%22%7d)
+
 ### Учебный план 
 - https://github.com/rolling-scopes-school/tasks/tree/master/stage2
 
