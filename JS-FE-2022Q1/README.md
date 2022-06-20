@@ -21,6 +21,9 @@
 - Процесс менторинга https://docs.rs.school/#/mentoring
 - Как проверять задания https://docs.rs.school/#/pull-request-review-process
 
+## Q&A MFU 20.06.2022 
+Запись: https://youtu.be/KDGQoWofHcg
+
 ## Q&A MFU 13.06.2022 
 Запись: https://youtu.be/cLjXvmvonBQ
 
@@ -51,7 +54,9 @@
 https://github.com/rolling-scopes/rsschool-app
 
 #### 🙋 Что можно спросить у студентов на первом собеседовании?
-Примеры вопросов и процесс - https://docs.rs.school/#/mentoring-first-interview
+Примеры вопросов и процесс:
+- https://docs.rs.school/#/mentoring-first-interview
+- https://github.com/rolling-scopes-school/tasks/tree/master/stage2/modules/technical-screening
 
 
 
