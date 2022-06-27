@@ -32,6 +32,9 @@ Fix: https://github.com/rolling-scopes/rsschool-app/pull/1551
 #### 🙋 Где смотреть учебный план на эту неделю?
 В разделе "Активности менторов" - https://github.com/rolling-scopes-school/tasks/tree/master/stage2#%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2-21062022
 
+#### 🙋 Где можно добрать студента из waitlist? 
+Тут - https://app.rs.school/course/mentor/interview-students?course=js-fe-2022Q1
+
 ## Q&A MFU 20.06.2022 
 Запись: https://youtu.be/KDGQoWofHcg
 
