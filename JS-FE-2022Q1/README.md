@@ -25,9 +25,12 @@
 Запись: Будет тут
 
 #### 🙋 Когда исправят баг с очисткой всех полей при открытии ранее заполненной формы?
-Issue: https://github.com/rolling-scopes/rsschool-app/issues/1548
-Fix: https://github.com/rolling-scopes/rsschool-app/pull/1551
+Issue: https://github.com/rolling-scopes/rsschool-app/issues/1548  
+Fix: https://github.com/rolling-scopes/rsschool-app/pull/1551  
 Спасибо https://github.com/Pulya10c
+
+#### 🙋 Где смотреть учебный план на эту неделю?
+В разделе "Активности менторов" - https://github.com/rolling-scopes-school/tasks/tree/master/stage2#%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2-21062022
 
 ## Q&A MFU 20.06.2022 
 Запись: https://youtu.be/KDGQoWofHcg
