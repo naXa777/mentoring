@@ -24,6 +24,12 @@
 ## Q&A MFU 04.07.2022 
 Запись: Будет тут
 
+#### 🙋 Оставить ваши пожелания по следующему таску "Online Store" можно тут
+https://github.com/rolling-scopes-school/tasks/pull/713/files
+
+#### 🙋 Сабмитнуть оценку за таск News Api нужно тут: 
+https://app.rs.school/course/mentor/submit-review?course=js-fe-2022Q1 (Дедлайн 19 июля)
+
 ## Q&A MFU 27.06.2022 
 Запись: https://youtu.be/9e1_1XVuQqE
 
