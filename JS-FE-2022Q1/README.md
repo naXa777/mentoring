@@ -22,7 +22,7 @@
 - Как проверять задания https://docs.rs.school/#/pull-request-review-process
 
 ## Q&A MFU 04.07.2022 
-Запись: Будет тут
+Запись: https://youtu.be/PVjsSy8GqU4
 
 #### 🙋 Оставить ваши пожелания по следующему таску "Online Store" можно тут
 https://github.com/rolling-scopes-school/tasks/pull/713/files
