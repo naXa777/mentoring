@@ -21,6 +21,9 @@
 - Процесс менторинга https://docs.rs.school/#/mentoring
 - Как проверять задания https://docs.rs.school/#/pull-request-review-process
 
+## Q&A MFU 22.08.2022 
+Запись: https://youtu.be/xXtDgHFm4lk
+
 ## Q&A MFU 15.08.2022 
 Запись: https://youtu.be/iY6-I972BQM
 
