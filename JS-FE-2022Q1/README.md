@@ -21,6 +21,15 @@
 - Процесс менторинга https://docs.rs.school/#/mentoring
 - Как проверять задания https://docs.rs.school/#/pull-request-review-process
 
+## Q&A MFU 29.08.2022 
+Запись: https://youtu.be/bp6BxgIPO8s
+
+#### 🙋 Формы для получения менторского свага:
+- [Беларусь](https://docs.google.com/forms/d/e/1FAIpQLSeqGufGfr-oo8M75J0byf1DuB4zfHGZpqnYeuTfWEgeRvuNMw/viewform) 
+- [Казахстан,  Кыргыстан, Узбекистан, Турция, Польша, Литва, Грузия, Украина(по возможности, доставка обсуждается индивидуально)](https://docs.google.com/forms/d/e/1FAIpQLSedTEIJPV7cBcpuAwjzFY8oYEIhIN7AybK4WxAShM3hNfZp7g/viewform)
+#### 🙋 Формы заполнить до 5-го сентября
+
+
 ## Q&A MFU 22.08.2022 
 Запись: https://youtu.be/xXtDgHFm4lk
 
